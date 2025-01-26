@@ -7,7 +7,7 @@ console.log(employeeID, typeof employeeID);
 var isActive = true;
 console.log(isActive, typeof isActive);
 
-//Task - 2 Product Details
+//Task 2 - Product Details
 
 let productName = "Vodka Absolute";
 console.log(productName, typeof productName);
@@ -15,3 +15,16 @@ const productPrice = 24.99;
 console.log(productPrice, typeof productPrice);
 var isAvailable = true;
 console.log(isAvailable, typeof isAvailable);
+
+//Task 3 - Financial Transactions
+
+let accountBalance = 5000;
+console.log(accountBalance);
+accountBalance += 2000;
+console.log(accountBalance);
+accountBalance -= 3000;
+console.log(accountBalance);
+accountBalance *= 5;
+console.log(accountBalance);
+accountBalance /= 4;
+console.log(accountBalance);
