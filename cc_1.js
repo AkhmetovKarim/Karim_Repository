@@ -28,3 +28,9 @@ accountBalance *= 5;
 console.log(accountBalance);
 accountBalance /= 4;
 console.log(accountBalance);
+
+//Task 4 - Customer Messaging
+
+let customerName = "Cristiano Ronaldo";
+let welcomeMessage = "Hello, " + customerName;
+console.log(welcomeMessage);
