@@ -34,3 +34,9 @@ console.log(accountBalance);
 let customerName = "Cristiano Ronaldo";
 let welcomeMessage = "Hello, " + customerName;
 console.log(welcomeMessage);
+
+//Task 5 - Access Control
+
+let isLoggedIn = true;
+let isAdmin = true;
+console.log(isLoggedIn && isAdmin);
